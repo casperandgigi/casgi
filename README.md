@@ -1,6 +1,6 @@
 # CasGi
 OSINT Tool 
-This requires Node.js and a web server.
+This requires Windows 8.1/10 
 
  ##################################
 
