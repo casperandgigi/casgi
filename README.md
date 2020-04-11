@@ -1,4 +1,4 @@
-# casgi
+# CasGi
 OSINT Tool 
 This requires Node.js and a web server.
 
