@@ -12,6 +12,4 @@ Sourceroge Project will coming soon !
 
 
 -----------------------------------------------------------------------------
-Credits: This is a derivate from https://github.com/lockfale/
-
 Technologies used: Node.js (https://nodejs.org) and Brackets (https://Brackets.io)
