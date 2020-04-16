@@ -1,15 +1,16 @@
 # CasGi
 OSINT Tool 
-This requires Windows 8.1/10 
+This requires Windows 8.1/10 and Internet connection
 
  ##################################
 
 
- Download from here ---> https://drive.google.com/file/d/1U2pFe1LDoVWwWBmdQPeJr8hnRPNbdi6s/view?usp=sharing
+ Download New version 1.2 ---> https://drive.google.com/file/d/1C8kAZCDXNg1_0wPJwn8x7CLB_yFIXwoe/view?usp=sharing
 
 
-Sourceroge Project will coming soon !
+Sourceforge Project will coming soon !
 
 
 -----------------------------------------------------------------------------
 Technologies used: Node.js (https://nodejs.org) and Brackets (https://Brackets.io)
+Special thanks to https://github.com/lockfale this a derivate from there. 
